@@ -30,7 +30,7 @@
    - Название
    - Стоимость
 
- ![Er-модель](https://user-images.githubusercontent.com/102413548/160236468-52ae8d3f-6927-47ed-980e-53b08bf9ff67.png) 
+ ![Er-модель](https://github.com/olcru/OOp/blob/main/11.png) 
 
 | Класс | Атрибуты | Значения |
 |-------|----------|----------|

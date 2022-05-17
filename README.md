@@ -4,7 +4,7 @@
 ## Информационная система "Гостиница"
 
 Атрибуты и их методы
- ![image](https://user-images.githubusercontent.com/102413548/168797035-4443a317-8212-40cf-ad0f-8884a5b22873.png)
+![image](https://user-images.githubusercontent.com/102413548/168807616-c3f0e0da-b08f-4acc-9de9-2c9ab4ca9f17.png)
  
  UML-диаграмма
  ![image](https://user-images.githubusercontent.com/102413548/168423953-54a09432-e969-4033-b6ce-9897f6709384.png)
